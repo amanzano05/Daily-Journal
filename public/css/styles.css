@@ -1,0 +1,75 @@
+
+.container{
+  height: auto;
+}
+/* used to leave space between navbar and title of the page */
+.spacer{
+  height: 6rem;
+}
+
+
+.content{
+  padding-bottom: 3rem;
+}
+
+.navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 1rem;
+    /* font-size: 14px; */
+    letter-spacing: 3px;
+    background-color: #7fdbda;
+}
+
+.brand{
+    color: #777 ;
+    font-size: 18px ;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.navbar-nav .nav-link {
+    color: rgba(0,0,0,.5);
+}
+
+
+
+.navbar-nav  li a:hover{
+    color: #1abc9c !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: fixed;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: auto;
+	background-color: #ade498;
+}
+
+.footer p {
+	margin-top: 0rem;
+  margin-bottom: 1.2rem;
+	font-size: 0.8rem ;
+  color: #777;
+}
+.contact{
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+.icons{
+  font-size: 2rem;
+  color: #777;
+margin: 2rem;
+}
+
+.icons:hover{
+  color: #1abc9c;
+}
